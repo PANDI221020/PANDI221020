@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 
 <!cara bermain game
----
+---yang perlu di perhatikan dalam bermain game.
+1.donwload game terlebih dahulu.
+2.buka game itu terlebih dahulu
 PANDI221020/PANDI221020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
